@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "60a3b2a19c81a69e74c13e0d"
+  },
+  "username": "demo",
+  "email": "demo",
+  "password": "demo"
+},{
+  "_id": {
+    "$oid": "60a3b3589c81a69e74c13e0f"
+  },
+  "username": "divyansh",
+  "email": "divyansh@gmail.com",
+  "password": "divyansh"
+},{
+  "_id": {
+    "$oid": "60a772a446795d7249d2a7f7"
+  },
+  "username": "reddy",
+  "email": "reddy@gmail.com",
+  "password": "reddy"
+},{
+  "_id": {
+    "$oid": "60a7949e46795d7249d2a7fa"
+  },
+  "username": "anisha",
+  "email": "anisha@gmail.com",
+  "password": "anisha"
+},{
+  "_id": {
+    "$oid": "60a794e746795d7249d2a7fb"
+  },
+  "username": "kunal",
+  "email": "kunal@gmail.com",
+  "password": "kunal"
+},{
+  "_id": {
+    "$oid": "60a794fe46795d7249d2a7fc"
+  },
+  "username": "rajnish",
+  "email": "rajnish@gmail.com",
+  "password": "rajnish"
+}]
